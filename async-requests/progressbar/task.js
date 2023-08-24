@@ -12,4 +12,4 @@ send.addEventListener('click', function (e) {
 	}
     
 	xhr.send(data);
-})
+});
